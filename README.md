@@ -8,7 +8,7 @@ This guide will walk you through the steps to block distracting websites on your
   - Look at the bottom-left corner of your screen
   - Click on the Windows logo (the Start button)
   
-  ![Start Menu Button](https://i.imgur.com/lGlfSAn.png)
+  ![Start Menu Button](1.jpg)
 
 2. **Search for PowerShell**
   - After clicking the Start button, start typing "PowerShell" (you don't need to click anywhere first)
@@ -20,19 +20,17 @@ This guide will walk you through the steps to block distracting websites on your
   - A menu will appear
   - In this menu, click on "Run as administrator"
 
-  ![Right-click PowerShell](https://i.imgur.com/gIrJWvK.png)
+  ![Right-click PowerShell](2.jpg)
 
 4. **Confirm Administrator Access**
   - A blue and white pop-up window might appear asking "Do you want to allow this app to make changes to your device?"
   - Click "Yes"
 
-  ![User Account Control](https://i.imgur.com/q8tckZ5.png)
-
 5. **Check That PowerShell is Open**
   - You should now see a blue window with white text
   - The title at the top should include "Administrator: Windows PowerShell"
   
-  ![PowerShell Admin Window](https://i.imgur.com/DfBdDv2.png)
+  ![PowerShell Admin Window](3.jpg)
 
 ## Step 2: Run the Command
 
@@ -48,18 +46,20 @@ This guide will walk you through the steps to block distracting websites on your
 - Right-click to paste the command (or press Ctrl+V)
 - The command will appear in the window
 
-![Paste Command](https://i.imgur.com/bHXkYB3.png)
+![Paste Command](4.jpg)
 
 3. **Run the Command**
 - Press the Enter key on your keyboard
 - The command will start running
+
+![Command Complete](5.jpg)
 
 4. **Wait for the Process to Complete**
 - You'll see some text appear as the command works
 - Wait until you see the message "Done! Websites are now blocked." in green text
 - This typically takes less than 30 seconds
 
-![Command Complete](https://i.imgur.com/L9tFJZ1.png)
+
 
 5. **Close PowerShell**
 - Click the X in the top-right corner of the PowerShell window
@@ -73,6 +73,8 @@ This guide will walk you through the steps to block distracting websites on your
 2. **Test the Blocking**
 - Try to visit a website that should be blocked (you know what site it is)
 - You should see an error message or a blank page
+
+- ![Command Complete](end.jpg)
 
 ## Troubleshooting
 
