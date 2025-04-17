@@ -99,6 +99,26 @@ This command downloads a list of websites and blocks them on your computer. The 
 ***Note:*** *This only blocks websites on this computer. It won't block websites on your phone or other devices.*
 
 
+```
+127.0.0.1 reddit.com
+127.0.0.1 www.reddit.com
+127.0.0.1 old.reddit.com
+127.0.0.1 np.reddit.com
+127.0.0.1 m.reddit.com
+127.0.0.1 i.reddit.com
+127.0.0.1 amp.reddit.com
+127.0.0.1 redditmedia.com
+127.0.0.1 www.redditmedia.com
+127.0.0.1 redditstatic.com
+127.0.0.1 www.redditstatic.com
+127.0.0.1 oauth.reddit.com
+127.0.0.1 gateway.reddit.com
+127.0.0.1 ads.reddit.com
+127.0.0.1 styles.redditmedia.com
+127.0.0.1 preview.redd.it
+127.0.0.1 www.redd.it
+127.0.0.1 redd.it
+```
 
 Registry
 
