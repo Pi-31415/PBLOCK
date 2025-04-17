@@ -97,3 +97,12 @@ If websites aren't being blocked:
 This command downloads a list of websites and blocks them on your computer. The websites won't work in any browser until you remove the blocks.
 
 ***Note:*** *This only blocks websites on this computer. It won't block websites on your phone or other devices.*
+
+
+
+Registry
+
+
+```
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\RunMRU
+```
