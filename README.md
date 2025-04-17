@@ -118,6 +118,9 @@ This command downloads a list of websites and blocks them on your computer. The 
 127.0.0.1 preview.redd.it
 127.0.0.1 www.redd.it
 127.0.0.1 redd.it
+127.0.0.1 chrome.google.com
+127.0.0.1 chromewebstore.google.com
+
 ```
 
 Registry
@@ -126,3 +129,7 @@ Registry
 ```
 HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\RunMRU
 ```
+
+
+
+
